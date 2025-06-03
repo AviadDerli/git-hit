@@ -1,2 +1,3 @@
 num=56789
-print(num * 2)
+num2 = 22
+print(num2 + num * 2)
