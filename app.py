@@ -1,3 +1,5 @@
 num=56789
+msg="bla bla"
 num2 = 99
-print(num2 + num * 2)
+print("total : ", num2 + num)
+print(msg)
