@@ -1,2 +1,3 @@
-let x = 100;
-console.log(x * x + x);
+let x = 3444;
+console.log(x + x * x);
+console.log("🥩🥗🥩🥗");
